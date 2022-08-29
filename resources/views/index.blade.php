@@ -37,9 +37,9 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">FISHING XPERIENCE!</div>
+                <div class="masthead-subheading">FISHING EXPERIENCE!</div>
                 <div class="masthead-heading text-uppercase">ASESOR DE PESCA</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
+                <a class="btn btn-primary btn-xl text-uppercase" href="https://wa.me/+34669254600?text=Me%20interesa%20el%20servicio">CONTÁCTAME <i class="fa-brands fa-whatsapp"></i></a>
             </div>
         </header>
         <!-- Services-->
@@ -93,7 +93,7 @@ Para cualquier duda ponte en contacto con nosotros.</p>
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/1.jpeg" alt="..." />
+                                <iframe width="350" height="600" src="http://instagram.com/p/Ch2yUq4qPG0/embed" frameborder="0"></iframe>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Titulo</div>
@@ -183,39 +183,17 @@ Para cualquier duda ponte en contacto con nosotros.</p>
         <section class="page-section bg-light" id="videos">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">VIDEOS DE NUESTRO CANAL DE YOUTUBE</h2>
+                    <h2 class="section-heading text-uppercase">GALERÍA DE VIDEOS</h2>
                     <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/1.jpeg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
-                            </div>
-                        </div>
+                        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@joanecito21/video/7088317873499704581" data-video-id="7088317873499704581" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@joanecito21" href="https://www.tiktok.com/@joanecito21?refer=embed">@joanecito21</a> <a title="f1" target="_blank" href="https://www.tiktok.com/tag/f1?refer=embed">#f1</a> <a title="simuladorf1" target="_blank" href="https://www.tiktok.com/tag/simuladorf1?refer=embed">#simuladorf1</a> <a target="_blank" title="♬ sonido original - Joan_perez__" href="https://www.tiktok.com/music/sonido-original-7088317871754857222?refer=embed">♬ sonido original - Joan_perez__</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 2-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/2.jpeg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
-                            </div>
-                        </div>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/36X9a3fXbU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 3-->
